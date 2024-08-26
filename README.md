@@ -10,7 +10,7 @@ Jureumi is a maze-solving robot built by **Mathias Suroviak**, **Lucia Hutirová
 Although Jureumi is relatively simple in compare with other Micromouse robots, he contains all the necessary features to solve mazes:
 - Drive through the maze using two brushed DC motors
 - Detect obstacles - maze walls with custom made IR distance sensors
-- Scan mazes, where all walls are connected, using [Right-hand rule](https://en.wikipedia.org/wiki/Right-hand_rule)
+- Scan mazes, where all walls are connected, using [Right-hand rule]([https://en.wikipedia.org/wiki/Right-hand_rule](https://en.wikipedia.org/wiki/Maze-solving_algorithm#Hand_On_Wall_Rule))
 - Save map of the maze to raspberry pi pico flash memory
 
 ***
